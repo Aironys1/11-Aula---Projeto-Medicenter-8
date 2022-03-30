@@ -1,0 +1,22 @@
+@media (max-width: 850px){
+    .banner_headline h1{
+        font-size:55px;
+    }
+
+    .banner_headline h2{
+        font-size:17px;
+        color:10px;
+    }
+
+    .banner_options{
+        flex-direction: column;
+        height:100px;
+        
+    }
+
+    .banner_desc {
+        padding-top:20px;
+    }
+
+}
+  
